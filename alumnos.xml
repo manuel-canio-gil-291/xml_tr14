@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<alumnos>
+	<alumno nombre="Fulanito" edad="20">
+		<calificacion>8.5</calificacion>
+		<unidadesPendientes>true</unidadesPendientes>
+	</alumno>
+	<alumno nombre="Menganito" edad="21">
+		<calificacion>7.4</calificacion>
+		<unidadesPendientes>false</unidadesPendientes>
+	</alumno>
+	<alumno nombre="Zutanito" edad="19">
+		<calificacion>6.9</calificacion>
+		<unidadesPendientes>false</unidadesPendientes>
+	</alumno>
+</alumnos>
