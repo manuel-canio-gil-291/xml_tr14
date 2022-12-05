@@ -1,0 +1,5 @@
+Listado de alumnos sin unidades pendientes:
+[Alumno [nombre=Menganito, edad=21, calificacion=7.4, unidadesPendientes=false], Alumno [nombre=Zutanito, edad=19, calificacion=6.9, unidadesPendientes=false]]
+Alumno con mejor calificacion: Fulanito
+Alumno con peor calificacion: Zutanito
+Nota media de clase: 7.6000000000000005
